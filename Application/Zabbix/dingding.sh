@@ -1,0 +1,1 @@
+curl https://oapi.dingtalk.com/robot/send?access_token=3fc714cc881e834534d53ece194ea32bed5099c790a20358cb9e59c49b37bd64 -H 'Content-Type: application/json' -d '{"msgtype": "text", "text": {"content": "告警设置"}, "at": {"atMobiles": ["15622361127"], "isAtAll": false}}'
